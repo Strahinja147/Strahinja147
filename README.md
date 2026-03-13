@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Strahinja
 
-<!--
-**Strahinja147/Strahinja147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 4th-year Computer Science and Informatics student at the Faculty of Electronic Engineering. My primary focus and passion lie in low-level programming, systems engineering, and understanding how software interacts with hardware under the hood.
 
-Here are some ideas to get you started:
+## About Me
+- Highly interested in systems programming, operating systems, memory management, and applied cryptography.
+- I enjoy writing clean, highly optimized, and robust code, particularly in C and C++.
+- Continuously exploring advanced computer architecture, POSIX/Linux APIs, and network protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Skills
+- **Low-Level & Systems:** C, C++, POSIX APIs, Linux environments
+- **Application & Scripting:** Python, C#, Kotlin
+- **Concepts:** Process management, IPC, socket programming, state-space search algorithms, cryptography
