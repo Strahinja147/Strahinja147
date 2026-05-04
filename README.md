@@ -10,4 +10,4 @@ I am a 4th-year Computer Science and Informatics student at the Faculty of Elect
 ## Tech Stack & Skills
 - **Low-Level & Systems:** C, C++, POSIX APIs, Linux environments
 - **Application & Scripting:** Python, C#, Kotlin
-- **Concepts:** Process management, IPC, socket programming, state-space search algorithms, cryptography
+- **Concepts:** Process management, IPC, socket programming, state-space search algorithms, embedded systems, cryptography
